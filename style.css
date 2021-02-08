@@ -2,17 +2,6 @@ body {
     background-color:#F2E8C9;
 }
 
-label {
-    display: block;
-    font: 1rem 'Fira Sans', sans-serif;
-}
-
-input,
-label {
-    display: flex;
-    margin: .4rem 0;
-}
-
 .wrapper {
     display: flex;
     justify-content: center;
